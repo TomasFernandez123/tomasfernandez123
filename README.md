@@ -56,17 +56,21 @@ I am a **Technical Programmer** graduated from **UTN** (Argentina). I specialize
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 ---
-<!--
-**TomasFernandez123/tomasfernandez123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Key Features | Tech Stack |
+| :--- | :--- | :--- |
+| [**Angelite Ecommerce**](https://github.com/TomasFernandez123/angelite) | State management, secure checkout, and product filtering. | NestJS, MongoDB, Angular |
+| [**Social Network API**](https://github.com/TomasFernandez123/nexora-back) | Real-time updates using Webhooks and scalable architecture. | Nest.js, Angular, MongoDB |
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TomasFernandez123&show_icons=true&theme=radical&hide_border=true" alt="Tomas's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasFernandez123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TomasFernandez123&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
